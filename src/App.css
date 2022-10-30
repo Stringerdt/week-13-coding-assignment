@@ -2,6 +2,8 @@
   text-align: center;
 }
 
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +37,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.navbar {
+  background-color: #E7B9A3;
+}
+
+#signIn {
+  background-color: #A3D1E7;
+  border: solid black;
 }
